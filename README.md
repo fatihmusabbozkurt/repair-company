@@ -1,1 +1,2 @@
-# repair-company
+# Repair Company
+In this project, a database application using Phyton and SQLite was developed. SQLite is library that implements a self-contained and full-featured SQL database engine. The schema structure of the database was designed,an Entity/Relationship diagram was prepared, and translated into actual tables in SQLite. Furthermore,a graphical user interface (GUI) in Python was designed , to utilize PySimpleGUI and connect the tables and queries together in a menu system using these GUIs
